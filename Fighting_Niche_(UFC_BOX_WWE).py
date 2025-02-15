@@ -16,8 +16,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "ufc", "wrestling", "grappling", "boxing", "votesport", "sports", "mma", "bellator", "espn", "fighter", "kickboxing", "bjj", "sport", "canelo", "box", "fighting", "ultimate fighting championship", "ufc news", "mixed martial arts", "ufc knockouts", "mma knockouts", "mma news", "espn mma", "mma highlights", "mma fighting", "mma hour", "jon jones", "daniel cormier", "martial arts", "conor mcgregor", "muay thai", "full fight", "kick boxing", "best ufc knockouts", "joe rogan", "the ultimate fighter", "combat sport", "mix fight", “ilia topuria”, 
-“islam makhachev”, “wwe”, “wwe world heavy weight champion”, “wwe undisputed champion”
+ "ufc", "wrestling", "grappling", "boxing", "votesport", "sports", "mma", "bellator", "espn", "fighter", "kickboxing", "bjj", "sport", "canelo", "box", "fighting", "ultimate fighting championship", "ufc news", "mixed martial arts", "ufc knockouts", "mma knockouts", "mma news", "espn mma", "mma highlights", "mma fighting", "mma hour", "jon jones", "daniel cormier", "martial arts", "conor mcgregor", "muay thai", "full fight", "kick boxing", "best ufc knockouts", "joe rogan", "the ultimate fighter", "combat sport", "mix fight", "ilia topuria", 
+"islam makhachev", "wwe", "wwe world heavy weight champion", "wwe undisputed champion"
 
 ]
 
